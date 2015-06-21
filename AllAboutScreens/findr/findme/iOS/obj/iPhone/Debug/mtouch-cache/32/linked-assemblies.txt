@@ -1,0 +1,13 @@
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Maps.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Xml.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Calabash.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/findme.iOS.exe
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/findr/findme/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
