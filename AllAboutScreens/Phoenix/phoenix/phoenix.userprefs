@@ -1,1 +1,15 @@
-﻿<Properties StartupItem="iOS/phoenix.iOS.csproj" />
+﻿<Properties StartupItem="iOS/phoenix.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="phoenix/View/HomePage.cs">
+    <Files>
+      <File FileName="phoenix/phoenix.cs" Line="23" Column="4" />
+      <File FileName="phoenix/View/HomePage.cs" Line="112" Column="6" />
+      <File FileName="phoenix/View/MapOfDC.cs" Line="10" Column="40" />
+      <File FileName="phoenix/View/USCapitolDetails.cs" Line="10" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
