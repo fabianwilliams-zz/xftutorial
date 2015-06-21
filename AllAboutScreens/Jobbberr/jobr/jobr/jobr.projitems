@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{894EA585-660B-4B08-9AC4-1D85C70E9CF7}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>jobr</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)jobr.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\HomePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helper\VetCell.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Vet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\VetData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helper\AppStyle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\JobsNavigationPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\JobrPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\SettingsPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\SettingsSwitchView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\SettingsUserView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\StatusBarView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\SyncSliderView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\SyncView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Model\" />
+    <Folder Include="$(MSBuildThisFileDirectory)View\" />
+    <Folder Include="$(MSBuildThisFileDirectory)ViewModel\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Helper\" />
+  </ItemGroup>
+</Project>
