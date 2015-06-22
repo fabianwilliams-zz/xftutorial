@@ -1,0 +1,7 @@
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/bin/Debug/hotc.UITests.dll.mdb
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/bin/Debug/hotc.UITests.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/obj/Debug/hotc.UITests.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/obj/Debug/hotc.UITests.dll.mdb
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/bin/Debug/nunit.framework.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/UITests/bin/Debug/Xamarin.UITest.dll

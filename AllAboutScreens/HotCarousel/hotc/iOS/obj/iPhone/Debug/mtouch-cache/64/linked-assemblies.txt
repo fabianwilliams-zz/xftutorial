@@ -1,0 +1,12 @@
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Xml.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Core.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Calabash.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/hotc.iOS.exe
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/xftutorial/AllAboutScreens/HotCarousel/hotc/iOS/obj/iPhone/Debug/mtouch-cache/64/Link/Mono.Dynamic.Interpreter.dll
